@@ -1,0 +1,55 @@
+rewrite:
+    - server hours (put in server properties)
+    
+
+
+
+POKÉJONG SMP
+
+Welcome to our minecraft server! We have the following mods installed:
+■ Lifesteal
+■ Pokémon
+■ Mahjong
+■ Flavor Seeker
+■ Proximity Chat
+we use custom made mods, be sure to read on!
+
+LIFESTEAL
+
+When you die, you lose and drop 1 ♥ MAXHP. (You do not drop hearts at 3 MAXHP) You can also barter with your own hearts! To extract 1 ♥ MAXHP into your inventory, type this in chat:
+/ls withdraw 1
+
+POKÉMON
+
+Every monster in the game has been replaced with Pokémon! If you beat another player in a battle, you will steal 1 ♥ MAXHP from them!
+[TAB] : View Menu
+[↑↓] : Select Pokémon
+[ R ] : Send Out Mon
+
+MAHJONG
+
+Riichi Mahjong. Yep.
+Losers pay winners ♥ MAXHP(s) based on uma. Table colors maps uma and game type:
+Green  (+1/+0/-0/-1)
+1 hand
+Blue   (+2/+1/-1/-2)
+1 round (East)
+
+FLAVOR SEEKER
+
+There are over 400 unique food items to craft! Use this command to see the unique foods you have eaten:
+/foodhistory
+Whenever this list reaches milestones you receive free ♥ MAXHP!
+
+PROXIMITY CHAT
+
+We have proximity voice chat in this server!
+[ V ] : chat settings
+[ N ] : mute mic
+[ P ] : player list
+Every Sunday 8PM EST we have a server assembly meeting at (0,64,0)! Be there and receive 1 free ♥ MAXHP!
+
+
+POSTFACE
+
+Feel free to share this minecraft server with any close friends. Please don't post it in public forums or discords. Word of mouth ensures the server culture is stable and server maintenance isn't stressful, thanks!
